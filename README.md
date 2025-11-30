@@ -31,20 +31,4 @@ A full-stack MERN application for tracking employee attendance, calculating work
    npm install
 
 
-   Login Page
-
-   ![alt text](image.png)
-
-   Employee Dashboard
-
-   ![alt text](image-1.png)
-
-   Manager Dashboard
-
-   ![alt text](image-2.png)
-
-   Attendance Reports & Calendar
-
-   ![alt text](image-3.png)
-
-   ![alt text](image-4.png)
+  
