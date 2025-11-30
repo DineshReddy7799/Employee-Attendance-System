@@ -1,5 +1,5 @@
 // backend/server.js
-const path = require('path'); // <--- Import path module
+const path = require('path');
 const express = require('express');
 const dotenv = require('dotenv');
 const cors = require('cors');
@@ -25,8 +25,8 @@ if (process.env.NODE_ENV === 'production') {
   // Set static folder
   app.use(express.static(path.join(__dirname, '../frontend/build')));
 
-  // Any route that isn't an API route points to index.html
-  app.get('*', (req, res) =>
+  // FIX: Changed '*' to '*all' to fix the "Missing parameter name" error
+  app.get('*all', (req, res) =>
     res.sendFile(path.resolve(__dirname, '../', 'frontend', 'build', 'index.html'))
   );
 } else {
