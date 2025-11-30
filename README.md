@@ -1,3 +1,9 @@
+Name : C.Dinesh Reddy
+
+College Name : Srinivasa Ramanujan Institute of Technology
+
+Contact Number : 7815857033
+
 # Employee Attendance System
 
 A full-stack MERN application for tracking employee attendance, calculating work hours (Late/Half-day logic), and generating CSV reports for managers.
