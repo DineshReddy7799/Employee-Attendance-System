@@ -4,6 +4,12 @@ College Name : Srinivasa Ramanujan Institute of Technology
 
 Contact Number : 7815857033
 
+Manager Login Credentials:
+
+Username : manager@test.com
+
+Password : 123456
+
 # Employee Attendance System
 
 A full-stack MERN application for tracking employee attendance, calculating work hours (Late/Half-day logic), and generating CSV reports for managers.
