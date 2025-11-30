@@ -19,7 +19,7 @@ A full-stack MERN application for tracking employee attendance, calculating work
 ## 🛠️ Tech Stack
 - **Frontend:** React, Redux Toolkit, Recharts, CSS Modules.
 - **Backend:** Node.js, Express, MongoDB.
-- **Database:** MongoDB Atlas / Local.
+- **Database:** MongoDB Atlas .
 
 ## ⚙️ How to Run Locally
 
